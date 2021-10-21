@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_values",
+  "info": {
+    "name": "values",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

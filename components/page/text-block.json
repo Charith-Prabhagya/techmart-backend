@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_text_blocks",
+  "info": {
+    "name": "text-block",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "value": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.value"
+    }
+  }
+}
